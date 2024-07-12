@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Simerjit-Singh
 - 👀 I’m interested in trying new opportunities 
-- 🌱 I’m currently learning mern stack from coding ninjas
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently looking for an internship/job opportunity where i can showcase my skills as well as improve them.
 - 📫 How to reach me mail-simerjit624@gmail.com
 
 <!---
